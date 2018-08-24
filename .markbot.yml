@@ -22,7 +22,9 @@ html:
       - "ul h2"
       - "ul p"
     search:
-      - 'placeholder-circle\.svg'
+      - 'ornate\.svg'
+      - 'atlas\.svg'
+      - 'hercules\.svg'
       - 'Atlas moth'
       - 'Hercules Moth'
       - 'Hercules Moth'
