@@ -42,4 +42,4 @@ css:
       - 'display: inline-block'
       - 'display: block'
     search_not:
-      - ['float:', 'Use `display: inline-block` instead of float to complete this assignment']
+      - ['flex', 'Use `display: inline-block` instead of Flexbox to complete this assignment']
