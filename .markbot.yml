@@ -33,15 +33,9 @@ css:
   - path: "css/main.css"
     has:
       - ['.cards', 'list-style-type', 'none']
-      - ['.card']
       - ['.card-img img']
       - ['.card-body h2']
       - ['.card-body p']
-      - ['@25em', '.card-img']
     search:
       - '100%'
       - '1\.3'
-      - 'display: inline-block'
-      - 'display: block'
-    search_not:
-      - ['flex', 'Use `display: inline-block` instead of Flexbox to complete this assignment']
